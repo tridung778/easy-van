@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.rhyme-word:hover {
+  transform: scale(1.15);
+  border-color: #000;
+  z-index: 2;
+  position: relative;
+}
